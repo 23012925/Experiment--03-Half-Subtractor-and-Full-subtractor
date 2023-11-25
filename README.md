@@ -39,16 +39,54 @@ Developed by:
 RegisterNumber:  
 */
 
-## Output:
+# Code:
 
-## Truthtable
+### HALF SUBTRACTOR:
+
+![program](https://github.com/23012925/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931013/63bcf293-e11b-4156-a2e9-0d2d96b68cdf)
+
+### FULL SUBTRACTOR:
+
+![program](https://github.com/23012925/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931013/7412a871-932d-4541-8b3e-6002a00104ee)
 
 
 
-##  RTL realization
+# Truthtable:
+
+### HALF SUBTRACTOR:
+
+![truth table](https://github.com/23012925/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931013/35e432e0-4519-4516-a1eb-6ca18b3f8020)
+
+### FULL SUBTRACTOR:
+
+![truth table](https://github.com/23012925/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931013/ba8d3b15-2ef1-4962-bc67-0600ad2d0e2a)
 
 
-## Timing diagram 
 
-## Result:
+# RTL viewer:
+
+### HALF SUBTRACTOR:
+
+![RTL viewer](https://github.com/23012925/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931013/d0a9b202-e2d1-44a7-b2f0-843fb590b0bc)
+
+
+### FULL SUBTRACTOR:
+
+![RTL viewer](https://github.com/23012925/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931013/5729dfb6-fd28-479f-a417-c7714d330a32)
+
+
+
+# Timing diagram:
+
+### HALF SUBTRACTOR:
+
+![Timing diagram](https://github.com/23012925/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931013/019f3065-1d79-4119-a73a-0e4bb8e38ff0)
+
+
+### FULL SUBTRACTOR:
+
+![Timing diagram](https://github.com/23012925/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931013/67f56980-fc8a-4bf6-9491-9b52c8187c9a)
+
+
+# Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
