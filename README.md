@@ -27,9 +27,12 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Procedure
 
-
-
-Write the detailed procedure here 
+Step 1:
+Use module program name(input,output)to start the verilog program
+Step 2:
+Assign inputs and outputs
+Step 3:
+End the verilog program using keyword endmodule
 
 
 ## Program:
